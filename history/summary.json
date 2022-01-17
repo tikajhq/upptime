@@ -22,18 +22,19 @@
     "url": "https://seller.blinkstore.in",
     "icon": "https://favicons.githubusercontent.com/seller.blinkstore.in",
     "slug": "blinkstore-seller",
-    "status": "up",
-    "uptime": "98.82%",
+    "status": "down",
+    "uptime": "98.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.42%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
-    "time": 1256,
-    "timeDay": 2039,
-    "timeWeek": 1351,
-    "timeMonth": 1256,
-    "timeYear": 1256,
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
+    "time": 1246,
+    "timeDay": 1799,
+    "timeWeek": 1328,
+    "timeMonth": 1246,
+    "timeYear": 1246,
     "dailyMinutesDown": {
+      "2022-01-17": 0,
       "2022-01-15": 159
     }
   }
