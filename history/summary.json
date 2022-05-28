@@ -4,7 +4,7 @@
     "url": "https://www.tikaj.com",
     "icon": "https://favicons.githubusercontent.com/www.tikaj.com",
     "slug": "tikaj",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 356,
     "timeMonth": 304,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-28": 0
+    }
   },
   {
     "name": "Blinkstore > Seller",
