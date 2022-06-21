@@ -4,9 +4,9 @@
     "url": "https://www.tikaj.com",
     "icon": "https://favicons.githubusercontent.com/www.tikaj.com",
     "slug": "tikaj",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.82%",
@@ -16,6 +16,7 @@
     "timeMonth": 1088,
     "timeYear": 468,
     "dailyMinutesDown": {
+      "2022-06-21": 1,
       "2022-06-15": 40,
       "2022-05-29": 220,
       "2022-05-28": 156
@@ -26,7 +27,7 @@
     "url": "https://seller.blinkstore.in",
     "icon": "https://favicons.githubusercontent.com/seller.blinkstore.in",
     "slug": "blinkstore-seller",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +39,7 @@
     "timeMonth": 1086,
     "timeYear": 1179,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-04-20": 26,
       "2022-04-14": 79,
       "2022-03-18": 64,
