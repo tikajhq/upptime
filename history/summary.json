@@ -4,7 +4,7 @@
     "url": "https://www.tikaj.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tikaj.com.ico",
     "slug": "tikaj",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
@@ -16,6 +16,7 @@
     "timeMonth": 621,
     "timeYear": 793,
     "dailyMinutesDown": {
+      "2022-12-02": 0,
       "2022-11-29": 24,
       "2022-08-04": 52,
       "2022-07-01": 25,
