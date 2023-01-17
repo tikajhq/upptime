@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.84%",
-    "time": 758,
-    "timeDay": 1390,
-    "timeWeek": 488,
+    "time": 756,
+    "timeDay": 105,
+    "timeWeek": 481,
     "timeMonth": 468,
-    "timeYear": 771,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2023-01-01": 62,
       "2022-11-29": 24,
@@ -35,15 +35,15 @@
     "slug": "blinkstore-seller",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "92.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.76%",
-    "time": 1161,
-    "timeDay": 873,
-    "timeWeek": 879,
-    "timeMonth": 1110,
-    "timeYear": 1163,
+    "time": 1160,
+    "timeDay": 815,
+    "timeWeek": 870,
+    "timeMonth": 1107,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2023-01-15": 110,
       "2022-12-09": 81,
@@ -64,8 +64,7 @@
       "2022-03-18": 64,
       "2022-02-24": 19,
       "2022-01-30": 31,
-      "2022-01-18": 16,
-      "2022-01-17": 25
+      "2022-01-18": 16
     }
   }
 ]
