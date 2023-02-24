@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.71%",
     "uptimeYear": "99.40%",
-    "time": 845,
-    "timeDay": 1496,
-    "timeWeek": 819,
+    "time": 844,
+    "timeDay": 93,
+    "timeWeek": 818,
     "timeMonth": 1157,
     "timeYear": 898,
     "dailyMinutesDown": {
@@ -37,16 +37,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/seller.blinkstore.in.ico",
     "slug": "blinkstore-seller",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1161,
-    "timeDay": 993,
-    "timeWeek": 916,
-    "timeMonth": 1204,
-    "timeYear": 1138,
+    "time": 1160,
+    "timeDay": 1066,
+    "timeWeek": 914,
+    "timeMonth": 1207,
+    "timeYear": 1136,
     "dailyMinutesDown": {
       "2023-01-15": 110,
       "2022-12-09": 81,
@@ -64,8 +64,7 @@
       "2022-06-21": 42,
       "2022-04-20": 26,
       "2022-04-14": 79,
-      "2022-03-18": 64,
-      "2022-02-24": 19
+      "2022-03-18": 64
     }
   }
 ]
