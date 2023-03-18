@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tikaj.com.ico",
     "slug": "tikaj",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
-    "time": 823,
-    "timeDay": 111,
-    "timeWeek": 220,
-    "timeMonth": 427,
-    "timeYear": 897,
+    "time": 822,
+    "timeDay": 316,
+    "timeWeek": 252,
+    "timeMonth": 388,
+    "timeYear": 896,
     "dailyMinutesDown": {
       "2023-01-30": 487,
       "2023-01-29": 877,
@@ -43,10 +43,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1155,
-    "timeDay": 1292,
-    "timeWeek": 1088,
-    "timeMonth": 1015,
-    "timeYear": 1128,
+    "timeDay": 1109,
+    "timeWeek": 1095,
+    "timeMonth": 1023,
+    "timeYear": 1129,
     "dailyMinutesDown": {
       "2023-01-15": 110,
       "2022-12-09": 81,
@@ -63,8 +63,7 @@
       "2022-06-29": 50,
       "2022-06-21": 42,
       "2022-04-20": 26,
-      "2022-04-14": 79,
-      "2022-03-18": 64
+      "2022-04-14": 79
     }
   }
 ]
